@@ -17,9 +17,9 @@ Bioinformatics Rosalind Questions and Solutions in R
 14) Edit Distance
 15) --
 16) Global Alignment with Scoring Matrix
-17)	Finding a Spliced Motif
-18) Finding a Shared Spliced Motif
-19) Completing a Tree
+17)	--
+18) --
+19) --
 20)	Counting Phylogenetic Ancestors
 21)	Counting Unrooted Binary Trees
 22) Counting Rooted Binary Trees
