@@ -1,0 +1,39 @@
+sample<-"AAAACCCGGT"
+library(Kmisc)
+#reverse the string
+reverseString<-str_rev(sample)
+#replacement with other letters
+reverseString.to.complement <- function(reverseString) {
+  complement<-""
+  i<-1
+  while(i<nchar(reverseString)+1){
+    
+    convertion<-substr(reverseString,i,i)
+    
+    complement<-paste(complement,conv.func(convertion),sep="")
+    i<-i+1
+  }
+  return(complement) 
+}
+conv.func<- function(convertion)
+{
+  if (convertion == "T") return("A")
+  else if(convertion == "A") return ("T")
+  else if(convertion == "C") return ("G")
+  else if(convertion == "G") return ("C")
+  else return ("*")
+}
+#repeat {
+#sample <- scan(file="",what="character",n=1)
+#reverseString<-str_rev(sample)
+#if (length(reverseString == 0) break
+#complement <- reverseString.to.complement(reverseString)
+#cat(reverseString ,"translates to",complement)
+#}
+REV <- scan(file="C:/Users/ASUS/Desktop/rosalind_revc.txt",what="character")
+
+REV2<-str_rev(REV)
+for (reverseString in REV2) {
+  complement <- reverseString.to.complement(reverseString)
+  print(complement)
+}
