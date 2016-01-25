@@ -15,7 +15,7 @@ Bioinformatics Rosalind Questions and Solutions in R
 12) --
 13) Counting Point Mutations
 14) Edit Distance
-15) Edit Distance Alignment
+15) --
 16) Global Alignment with Scoring Matrix
 17)	Finding a Spliced Motif
 18) Finding a Shared Spliced Motif
