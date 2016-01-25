@@ -1,0 +1,6 @@
+library(Biostrings)
+library(seqinr)
+fas2<-read.fasta("C:/Users/ASUS/Desktop/rosalind_glob.txt", forceDNAtolower = FALSE)
+s1<-c2s(fas2[[1]])
+s2<-c2s(fas2[[2]])
+needwunsQS(s1,s2, substmat="BLOSUM62", gappen=5)
