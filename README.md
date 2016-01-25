@@ -11,8 +11,8 @@ Bioinformatics Rosalind Questions and Solutions in R
 8) k-Mer Composition
 9) Creating a Distance Matrix
 10) Finding a Motif in DNA
-11) RNA Splicing
-12) Finding a Protein Motif
+11) --
+12) --
 13) Counting Point Mutations
 14) Edit Distance
 15) Edit Distance Alignment
