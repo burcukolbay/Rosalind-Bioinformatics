@@ -1,28 +1,18 @@
 # Rosalind-Bioinformatics
 Bioinformatics Rosalind Questions and Solutions in R
 
-1) Transcribing DNA into RNA
-2) Translating RNA into Protein
-3) Inferring mRNA from Protein
-4) Complementing a Strand of DNA
-5) Enumerating k-mers Lexicographically
-6) Counting DNA Nucleotides
-7) Computing GC Content
-8) k-Mer Composition
-9) Creating a Distance Matrix
-10) Finding a Motif in DNA
-11) --
-12) --
-13) Counting Point Mutations
-14) Edit Distance
-15) --
-16) Global Alignment with Scoring Matrix
-17)	--
-18) --
-19) --
-20)	Counting Phylogenetic Ancestors
-21)	Counting Unrooted Binary Trees
-22) Counting Rooted Binary Trees
-23) Creating a Character Table from Genetic Strings
-24) Character-Based Phylogeny
-25) Fixing an Inconsistent Character Set
+- Transcribing DNA into RNA
+- Translating RNA into Protein
+- Inferring mRNA from Protein
+- Complementing a Strand of DNA
+- Enumerating k-mers Lexicographically
+- Counting DNA Nucleotides
+- Computing GC Content
+- k-Mer Composition
+- Creating a Distance Matrix
+- Finding a Motif in DNA
+- Counting Point Mutations
+- Edit Distance
+- Global Alignment with Scoring Matrix
+-	Counting Phylogenetic Ancestors
+- Fixing an Inconsistent Character Set
